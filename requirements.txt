@@ -1,0 +1,8 @@
+# Критично: paddlepaddle 3.3.1 сломан на Windows (onednn NotImplementedError) — НЕ обновлять
+paddlepaddle==3.2.2
+paddleocr==3.7.0
+pymupdf==1.28.2
+Pillow==12.1.1
+openpyxl==3.1.5
+# Для PaddleOCR на Windows может понадобиться CPU-сборка torch:
+# pip install torch --index-url https://download.pytorch.org/whl/cpu

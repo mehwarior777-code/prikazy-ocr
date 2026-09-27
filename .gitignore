@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+logs/
+*.xlsx
+*_text.txt
+*_result.json
+СВОДКА_результатов.json
+СВОДКА_ВСЕХ.json
+*.png
+*.png_small.jpg
+*.log
